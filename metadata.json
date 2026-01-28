@@ -1,0 +1,7 @@
+{
+  "name": "Carto Maroc - Smart Cartography",
+  "description": "A professional GIS and cartography showcase website featuring interactive service grids, project sliders, and AI-powered map analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
